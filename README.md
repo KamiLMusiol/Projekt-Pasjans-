@@ -1,2 +1,3 @@
 # Projekt-Pasjans-
-Projekt pasjans c++,sfml
+Project pasjans c++
+sfml required
